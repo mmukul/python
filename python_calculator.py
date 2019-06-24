@@ -30,7 +30,7 @@ def division(num1, num2):
 
 def calculate(choice, num1, num2):
     if choice == '1':
-        addition(num1,num2)
+        addition(num1, num2)
     elif choice == '2':
         subtract(num1, num2)
     elif choice == '3':
